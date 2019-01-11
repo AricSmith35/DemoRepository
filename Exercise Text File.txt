@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 I added this line - Aric
 Line has been added - Minh
 New Line - Sam
 I actually added a 4th line - Aric
+=======
+Hey this file has been changed - Minh
+>>>>>>> Minh's-Testing-Branch
