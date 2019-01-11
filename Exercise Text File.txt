@@ -4,3 +4,8 @@ Hey Why did you delete - Minh
 
 <<<<<<< HEAD
 Changes
+=======
+Added a line - Aric
+
+Files - Minh
+>>>>>>> master
