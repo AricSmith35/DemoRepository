@@ -2,4 +2,5 @@ I deleted everything - Aric
 
 Hey Why did you delete - Minh
 
+<<<<<<< HEAD
 Changes
